@@ -1,1 +1,1 @@
-# Instacart_Product_Recommendation
+# Instacart_Product_Recommendation (content—based)
